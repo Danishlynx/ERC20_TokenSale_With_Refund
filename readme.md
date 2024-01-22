@@ -1,4 +1,4 @@
-Partial Refund
+Token Sale with Refund 
 
 Token Sale with additional functionality given to the users so that they can transfer their tokens to the contract and receive 0.5 ether for every 1000 tokens they transfer. You should accept amounts other than 1,000 Implement a function sellBack(uint256 amount)
 
